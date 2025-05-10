@@ -33,8 +33,8 @@
 git clone https://github.com/kkmaity/Image-Background-Remover-U2Net.git
 cd Image-Background-Remover-U2Net
 
-### 1. For Trained model
 
-```bash
-Connect with me:- smartbg.aws@gmail.com
+For Trained model
+
+Connect with me: smartbg.aws@gmail.com
 
