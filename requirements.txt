@@ -1,0 +1,14 @@
+pillow
+torch
+torchvision
+scipy
+sendgrid
+scikit-image
+gdown
+requests
+opencv-python
+opencv-contrib-python
+scipy
+requests
+opencv-python
+flask_cors
